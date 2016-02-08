@@ -11,3 +11,7 @@ It will grow naturally, but this can contain anything from unity project files, 
 and so on.
 
 Keep it as organized as you can, subfolders where possible, and it should work itself out.
+
+Notes 		- 	For finalized notes used for reference, documents that are in flux will be on google drive.
+Resources 	-	For any external resources we would like to keep track of (models, textures, etc.)
+Unitysource	-	The actual working source of the project.
